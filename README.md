@@ -1,8 +1,10 @@
 # Harshit-Gahlaut
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harshit Gahlaut</h1>
 <h3 align="center">A passionate frontend Java developer from India</h3>
-(img align="right" alt="Coding" width="400" src=("https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/108945005/191071159-012b0005-bdb6-42c7-9a5c-f1ec500a947d.png
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitgahlaut2002&label=Profile%20views&color=0e75b6&style=flat" alt="harshitgahlaut2002" /> </p>
 
